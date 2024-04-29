@@ -126,6 +126,10 @@ h2 {
     display: flex;
     font-size: 30px;
     justify-content: center;
+    
+}
+a {
+    color: aqua;
 }
 .rodape {
     display: flex;
